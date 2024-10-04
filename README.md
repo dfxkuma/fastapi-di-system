@@ -1,5 +1,5 @@
 # fastapi-di-system
-좌*빈 화이팅
+좌호빈 화이팅  
 간단하게 FastAPI와 Tortoise ORM을 사용하는 템플릿입니다.
 
 ## 야미
