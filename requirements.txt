@@ -1,0 +1,7 @@
+fastapi[all]
+pydantic
+pydantic-settings
+uvicorn
+fastapi-restful[all]
+tortoise-orm[asyncpg]
+dependency-injector>=4.0,<5.0
